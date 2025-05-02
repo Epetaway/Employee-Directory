@@ -1,6 +1,4 @@
-Certainly! Here's the full `README.md` content for your **Employee Directory** project, ready to copy:
 
-````markdown
 # Employee Directory
 
 A responsive, client-side web application that displays a directory of employees fetched from the [Random User Generator API](https://randomuser.me/). Users can browse, search, and view detailed information for each employee in a clean and user-friendly UI.
